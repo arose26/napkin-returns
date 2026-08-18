@@ -6,7 +6,7 @@ The policy-gradient ladder — REINFORCE → +baseline → +GAE → +PPO — tra
 
 ![cartpole](assets/cartpole.gif)
 
-This is the first repo of the **napkin-gamemaster series**: five small experiments building up to a model that plays a real game on a 6GB laptop GPU. This one establishes the on-policy algorithms and — more importantly — the evaluation discipline the rest of the series inherits.
+This is repo 1 of the **[napkin-gamemaster series](https://github.com/arose26/napkin-gamemaster)**: five small experiments building up to a model that plays a real game on a 6GB laptop GPU (the series home has the full index). This one establishes the on-policy algorithms and — more importantly — the evaluation discipline the rest of the series inherits.
 
 ## The experiment
 
