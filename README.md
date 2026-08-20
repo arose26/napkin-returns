@@ -1,5 +1,7 @@
 # napkin-returns
 
+Repo 1 of the **[napkin-gamemaster series](https://github.com/arose26/napkin-gamemaster)** (series home and index) — five one-file experiments building to real Atari Pong on a 6GB laptop. This one starts at the bottom.
+
 The policy-gradient ladder — REINFORCE → +baseline → +GAE → +PPO — trained as **one PyTorch file** on CartPole, in minutes, to answer the two questions every RL course skips:
 
 > **Which rung of the ladder actually does the lifting — and how many seeds do you need before the ranking you'd publish is even real?**
